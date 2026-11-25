@@ -28,7 +28,7 @@ MAX_CONCURRENT_THREADS = 6
 #
 # ⚠️ البروكسي السكني الحالي فرنسي.
 #    تغيير البلد هنا بدون تغيير البروكسي = تناقض جغرافي.
-TARGET_COUNTRY = "Germany"
+TARGET_COUNTRY = "United States"
 
 # ═══════════════════════════════════════════
 # 📚 قاموس البلدان — اللغة + التوقيت + العملة
@@ -4039,7 +4039,7 @@ def main():
     print(f"⚙️  الحد الأقصى للخيوط: {MAX_CONCURRENT_THREADS}")
     print("=" * 60)
     
-    TARGET_URL = "https://moho-dhpmsx5n.manus.space"
+    TARGET_URL = "https://erwty.de5.net"
     
     # ═══════════════════════════════════════════════
     # 1. إدخال الأزرار (مرة واحدة لكل الخيوط)
